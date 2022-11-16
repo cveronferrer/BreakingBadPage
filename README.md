@@ -5,6 +5,12 @@
 In this project you can see the different characters of Breaking Bad and also search them
 
 ~~~
+
+~~~
+
+En este proyecto podras ver y buscar los diferentes personajes de Breaking Bad 
+
+~~~
 ![Image text](./src/img/LandingPage.png) ![Image text](./src/img/LandingPageSearch.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
